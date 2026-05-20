@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> | <a href="README_CN.md">简体中文</a>
+  <a href="README.md">English</a> | <a href="README_CN.md">简体中文</a> | <a href="locales/ja/MANIFESTO.md">日本語</a> | <a href="locales/fr/MANIFESTO.md">Français</a> | <a href="locales/es/MANIFESTO.md">Español</a> | <a href="locales/de/MANIFESTO.md">Deutsch</a> | <a href="locales/ru/MANIFESTO.md">Русский</a> | <a href="locales/ko/MANIFESTO.md">한국어</a>
 </p>
 
 > 这不是一场反技术运动。
