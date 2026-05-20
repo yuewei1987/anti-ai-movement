@@ -74,6 +74,7 @@ We do not reject tools. We reject a system where technology is used to transfer 
 - [Anti-AI Labor Manifesto (English)](locales/en/MANIFESTO.md)
 - [Anti-AI Labor Manifesto (Chinese)](locales/zh-CN/MANIFESTO.md)
 - [International AI Law & Rights Resources](LAW_RESOURCES.md)
+- [Promotion Strategy & Social Media Kit](SOCIAL_MEDIA_KIT.md)
 - [Anti-AI Labor License (AALL)](ANTI-AI-LICENSE.md)
 - [Contributing Guide](CONTRIBUTING.md)
 
