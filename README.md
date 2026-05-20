@@ -57,11 +57,11 @@ We do not reject tools. We reject a system where technology is used to transfer 
 
 ## How to Join
 
-1. **Star this repository**: Help turn scattered anxiety into visible public attention.
-2. **Read and share the manifesto**: Start with the [Anti-AI Labor Manifesto](MANIFESTO.md) and send it to coworkers, friends, and communities.
-3. **Submit stories and observations**: Open an Issue, Discussion, or PR with real examples from your field.
-4. **Contribute translations and visuals**: Help expand the project with more languages, posters, icons, and campaign assets.
-5. **Push the conversation forward**: Use `#AntiAI` and `#HumanLaborFirst` to make the debate public and concrete.
+1. **Star this project**: Show your support and let the world hear our voice.
+2. **Spread the word**: 
+   - [Share on X (Twitter)](https://twitter.com/intent/tweet?text=I%20just%20joined%20the%20Anti-AI%20Movement%20on%20GitHub.%20Let%27s%20protect%20human%20labor%20rights%20together!&url=https://github.com/yuewei1987/anti-ai-movement)
+   - [Share on Reddit](https://www.reddit.com/submit?url=https://github.com/yuewei1987/anti-ai-movement&title=Join%20the%20Anti-AI%20Movement:%20Protecting%20Human%20Labor%20Rights)
+3. **Sign the Manifesto**: Read and support our [Anti-AI Labor Manifesto](MANIFESTO.md).
 
 ## Core Slogans
 

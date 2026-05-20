@@ -59,7 +59,10 @@
 
 1. **Star 本项目**：让更多人看到这场议题不是个体焦虑，而是公共问题。
 2. **阅读并传播宣言**：从 [《反 AI 劳动者宣言》](MANIFESTO.md) 开始，转发给同事、朋友和行业社群。
-3. **提交案例与观察**：通过 Issue、Discussion 或 PR，补充你所在行业受到的真实影响。
+3. **快速分享**：
+   - [在 X (Twitter) 上分享](https://twitter.com/intent/tweet?text=I%20just%20joined%20the%20Anti-AI%20Movement%20on%20GitHub.%20Let%27s%20protect%20human%20labor%20rights%20together!&url=https://github.com/yuewei1987/anti-ai-movement)
+   - [在 Reddit 上分享](https://www.reddit.com/submit?url=https://github.com/yuewei1987/anti-ai-movement&title=Join%20the%20Anti-AI%20Movement:%20Protecting%20Human%20Labor%20Rights)
+4. **提交案例与观察**：通过 Issue、Discussion 或 PR，补充你所在行业受到的真实影响。
 4. **贡献翻译与设计**：帮助项目增加更多语言、海报、图标和传播素材。
 5. **推动公共讨论**：在社交媒体使用 `#AntiAI` `#HumanLaborFirst`，发起更具体的行业讨论。
 
