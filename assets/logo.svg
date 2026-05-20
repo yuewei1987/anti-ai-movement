@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title>Anti-AI Movement Logo</title>
+<desc>A bold emblem representing human labor standing against unchecked AI expansion.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0f0f14"/>
+    <stop offset="100%" stop-color="#1b1b24"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ff4d4f"/>
+    <stop offset="100%" stop-color="#b71c1c"/>
+  </linearGradient>
+</defs>
+<rect x="16" y="16" width="480" height="480" rx="96" fill="url(#bg)"/>
+<rect x="70" y="70" width="372" height="372" rx="72" fill="none" stroke="#ff4d4f" stroke-width="18"/>
+<circle cx="256" cy="166" r="58" fill="none" stroke="#ffffff" stroke-width="18"/>
+<path d="M174 356c12-56 48-86 82-86s70 30 82 86" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<path d="M148 214h38m178 0h-38m-212 84h52m180 0h52m-290 84h74m150 0h74" stroke="#ff4d4f" stroke-width="16" stroke-linecap="round"/>
+<path d="M206 214l-16 84 36 28-14 56 44-28 44 28-14-56 36-28-16-84" fill="none" stroke="url(#accent)" stroke-width="20" stroke-linejoin="round"/>
+<text x="256" y="466" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#ffffff">HUMAN FIRST</text>
+</svg>
