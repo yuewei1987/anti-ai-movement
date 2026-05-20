@@ -73,6 +73,7 @@
 
 - [反 AI 劳动者宣言 (中文版)](locales/zh-CN/MANIFESTO.md)
 - [Anti-AI Labor Manifesto (English)](locales/en/MANIFESTO.md)
+- [国际 AI 法律与维权资源](LAW_RESOURCES_CN.md)
 - [反 AI 劳动者许可证 (AALL)](ANTI-AI-LICENSE.md)
 - [贡献指南](CONTRIBUTING.md)
 

@@ -34,7 +34,17 @@ We publish this manifesto not to deny technological progress, but to reject a da
 5. **Redistribution of AI Profits**: Excess gains from AI automation should fund worker protection, unemployment support, retraining, and public education.
 6. **Human-AI Collaboration First**: The default goal of deployment should be to strengthen workers, not erase them.
 
-## Our Principles of Action
+## Law as a Weapon
+
+We are not empty-handed. The global legal landscape is shifting, and we can leverage existing frameworks to protect ourselves:
+
+1. **Invoke Precedents like the EU AI Act**: Demand that companies implement human oversight and transparency audits for "High-Risk" AI systems affecting employment.
+2. **Strengthen the Right to Explanation**: For any automated decision involving pay, performance, or termination, demand a clear and understandable explanation.
+3. **Promote Collective Bargaining**: Follow the example of WGA and SAG-AFTRA by writing "AI Replacement Prevention" and "Data Consent & Compensation" into industry and company collective bargaining agreements.
+
+For more legal resources, see: [International AI Law & Rights Resources](../../LAW_RESOURCES.md)
+
+## Our Principles for Action
 
 - **Public**: Use open repositories, open cases, and open discussion to challenge closed decision-making.
 - **Collective**: Connect workers across sectors, regions, and professions instead of isolating their struggles.
